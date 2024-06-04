@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Books - BookStore</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="logo">BookStore</div>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="books.html">Books</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="cart.html">Cart</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section class="search-books">
+        <h1>Search Books</h1>
+        <input type="text" id="searchInput" placeholder="Search for books..." />
+      </section>
+
+      <section class="filter-categories">
+        <h2>Categories</h2>
+        <button class="category-btn" data-category="all">All</button>
+        <button class="category-btn" data-category="adventure">
+          Adventure
+        </button>
+        <button class="category-btn" data-category="thriller">Thriller</button>
+        <button class="category-btn" data-category="romance">Romance</button>
+        <!-- Add more categories as needed -->
+      </section>
+
+      <section class="book-list" id="bookList">
+        <!-- Books will be dynamically inserted here -->
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2024 BookStore. All rights reserved.</p>
+    </footer>
+
+    <script src="books.js"></script>
+  </body>
+</html>
