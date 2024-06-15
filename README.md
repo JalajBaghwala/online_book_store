@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/bookstore.git
+    git clone https://github.com/JalajBaghwala/online_book_store.git
     cd bookstore
     ```
 
@@ -84,6 +84,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or feedback, please contact us at:
 - **Email**: support@bookstore.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **GitHub**: [your-username](https://github.com/JalajBaghwala)
 
 
