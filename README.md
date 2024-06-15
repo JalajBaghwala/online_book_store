@@ -35,7 +35,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/JalajBaghwala/bookstore.git
+git clone https://github.com/JalajBaghwala/online_book_store.git
 cd bookstore
 Open the project in your preferred code editor.
 
