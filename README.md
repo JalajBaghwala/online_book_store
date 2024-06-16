@@ -84,6 +84,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or feedback, please contact us at:
 - **Email**: support@bookstore.com
-- **GitHub**: [your-username](https://github.com/JalajBaghwala)
+- **GitHub**: [JalajBaghwala](https://github.com/JalajBaghwala)
 
 
