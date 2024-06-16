@@ -6,14 +6,14 @@ Welcome to the BookStore project! This repository contains the source code for a
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
+- [Technologies Used](#HTML,CSS,javascript)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Live Demo](#live-demo)
+- [Live Demo](https://jalajbaghwala.github.io/online_book_store/)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+- [Contact](8449478899)
 
 ## Introduction
 
